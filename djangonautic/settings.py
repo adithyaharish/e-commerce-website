@@ -143,7 +143,7 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'adithyaharishsm@gmail.com'
 EMAIL_HOST_PASSWORD = 'yaqzrryxltykmztc'
 
-django_heroku.settings(locals())
 
+django_heroku.settings(locals())
 
 
