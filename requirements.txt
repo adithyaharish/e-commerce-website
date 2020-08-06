@@ -52,7 +52,6 @@ django-debug-toolbar==2.2
 django-dynamodb-sessions==0.6
 django-heroku==0.3.1
 django-phone-field==1.8.1
-docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
 fastcache==1.1.0
