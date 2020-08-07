@@ -14,7 +14,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '5g1t4n3c6=$)$y4houq-*%b4cjv7k4j+27y628n*s$4ucp#f9p'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = (os.environ.get('DEBUG_VALUE')=='True')
+DEBUG = False
 
 ALLOWED_HOSTS = ['estore-website.herokuapp.com','127.0.0.1']
 
@@ -117,7 +117,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media_root')
 
 #STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+#STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 CRISPY_TEMPLATE_PACK ='bootstrap4'
 
