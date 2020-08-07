@@ -14,7 +14,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '5g1t4n3c6=$)$y4houq-*%b4cjv7k4j+27y628n*s$4ucp#f9p'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = (os.environ.get('DEBUG_VALUE')=='True')
 
 ALLOWED_HOSTS = ['estore-website.herokuapp.com','127.0.0.1']
 
