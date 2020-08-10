@@ -16,7 +16,7 @@ SECRET_KEY = '5g1t4n3c6=$)$y4houq-*%b4cjv7k4j+27y628n*s$4ucp#f9p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['adithya-estore.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['******','127.0.0.1']
 
 
 # Application definition
