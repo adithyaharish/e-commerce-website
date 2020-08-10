@@ -1,5 +1,5 @@
 # e-commerce-website
-E comeerce a great idea for a website creation. And if you are wondering about code, check it here. I have uploaded the frontend templates along with backend code.</br>
+E comeerce a great idea for a website creation. And if you are wondering about code, check it here. I have uploaded the frontend templates along with backend code.</br></br>
 -Framework used: **Django**</br>
 -Frontend: **html,css,js**</br>
 -database: **sqlite3**</br>
@@ -11,4 +11,6 @@ E comeerce a great idea for a website creation. And if you are wondering about c
 3. Each user has my cart,my orders, and checkout forms
 4. contact us form where users can send queries to admin
 5. Attractive GUI features
+</br>
+I have hosted my website here, check it out: (https://adithya-estore.herokuapp.com)
 
