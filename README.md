@@ -12,7 +12,8 @@ E commerce website with cash on delivery feature. I have uploaded the frontend t
 1. I have striked out my email, password for privacy, replace with yours in the settings.py file.
 2. Pre-install all the imported packages and libraries
 </br>
-**Features:**
+
+**Features**:
 1. login,logout,forget password (reset through mail)
 2. Admin can upload new items deciding the price and other details
 3. Each user has my cart,my orders, and checkout forms
