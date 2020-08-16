@@ -1,5 +1,5 @@
 # e-commerce-website
-**check e-commerce-sudio file for video demonstartion**
+**check e-commerce-audio file for video demonstartion**
 </br>
 E commerce website with cash on delivery feature. I have uploaded the frontend templates along with backend code.</br></br>
 -Framework used: **Django**</br>
