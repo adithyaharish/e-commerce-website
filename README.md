@@ -1,5 +1,5 @@
 # e-commerce-website
-E comeerce website with cash on delivery feature. I have uploaded the frontend templates along with backend code.</br></br>
+E commerce website with cash on delivery feature. I have uploaded the frontend templates along with backend code.</br></br>
 -Framework used: **Django**</br>
 -Frontend: **html,css,js**</br>
 -database: **sqlite3**</br>
