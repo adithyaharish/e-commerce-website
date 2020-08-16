@@ -21,6 +21,7 @@ E commerce website with cash on delivery feature. I have uploaded the frontend t
 5. Attractive GUI features
 </br>
 Have hosted my website here: (https://adithya-estore.herokuapp.com)
-![Video](https://github.com/adithyaharish/e-commerce-website/blob/master/e-commerce-audio.mp4?raw=true)
+</br>
+[![Video](https://github.com/adithyaharish/e-commerce-website/blob/master/e-commerce-audio.mp4?raw=true)]
 
 
