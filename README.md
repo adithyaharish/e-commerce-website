@@ -1,4 +1,6 @@
 # e-commerce-website
+**check e-commerce-sudio file for video demonstartion**
+</br>
 E commerce website with cash on delivery feature. I have uploaded the frontend templates along with backend code.</br></br>
 -Framework used: **Django**</br>
 -Frontend: **html,css,js**</br>
@@ -9,6 +11,7 @@ E commerce website with cash on delivery feature. I have uploaded the frontend t
 **Note**:
 1. I have striked out my email, password for privacy, replace with yours in the settings.py file.
 2. Pre-install all the imported packages and libraries
+</br>
 **Features:**
 1. login,logout,forget password (reset through mail)
 2. Admin can upload new items deciding the price and other details
